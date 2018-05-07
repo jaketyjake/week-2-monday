@@ -1,4 +1,8 @@
 #bankaccount
+#  i started this, but am haing trouble with the concept
+#  of classes and how to manipulate them
+#  i will get back to this after i go back and learn 
+#  classes and objects a little better
 
 class BankAccount:
     def __init__(self, first_name, last_name, middle_name, account_type, balance, status):
